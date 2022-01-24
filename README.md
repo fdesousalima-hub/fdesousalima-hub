@@ -42,3 +42,7 @@
 <br />
 
 ---
+
+<!-- [website]: TODO -->
+[linkedin]: https://linkedin.com/in/fdesousalima
+[gitlab]: https://gitlab.com/fdesousalima
