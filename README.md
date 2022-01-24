@@ -44,11 +44,9 @@
 ---
 
 ### GitHub Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdesousalima-hub&show_icons=true)
 
-<img align="left" alt="fdesousalima-hub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdesousalima-hub&show_icons=true&hide_border=true" />
-
-<img align="left" alt="fdesousalima-hub's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdesousalima-hub&hide_border=true&layout=compact" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide_border=true&layout=compact&hide=glsl,language2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [website]: TODO -->
 [linkedin]: https://linkedin.com/in/fdesousalima
