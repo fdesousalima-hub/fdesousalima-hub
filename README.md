@@ -13,6 +13,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Ocaml" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,22 +42,11 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection/issues/46) in [fdesousalima-hub/video-source-code-create-nft-collection](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#46](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection/issues/46) in [fdesousalima-hub/video-source-code-create-nft-collection](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#45](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection/issues/45) in [fdesousalima-hub/video-source-code-create-nft-collection](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#45](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection/issues/45) in [fdesousalima-hub/video-source-code-create-nft-collection](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#44](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection/issues/44) in [fdesousalima-hub/video-source-code-create-nft-collection](https://github.com/fdesousalima-hub/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="fdesousalima-hub's GitHub Stats" src="https://github-readme-stats.fdesousalima-hub.vercel.app/api?username=fdesousalima-hub&show_icons=true&hide_border=true" />
+  <img align="left" alt="fdesousalima-hub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdesousalima-hub&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdesousalima-hub&hide_border=true&layout=compact)](https://github.com/fdesousalima-hub/github-readme-stats)
 
 </details>
 
