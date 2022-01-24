@@ -1,6 +1,8 @@
 ### Bonjour, moi c'est Fabio 👋 
 
-## Je suis Développeur !!
+## Je suis Etudiant, Développeur en Master 1 en Langages et Programmation !!
+
+### N'hésitez pas à consulter mes anciens projets !
 
 ### Contactez-moi :
 [<img align="left" alt="fdesousalima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -41,14 +43,12 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats :
 
-  <img align="left" alt="fdesousalima-hub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdesousalima-hub&show_icons=true&hide_border=true" />
+<img align="left" alt="fdesousalima-hub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdesousalima-hub&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdesousalima-hub&hide_border=true&layout=compact)](https://github.com/fdesousalima-hub/github-readme-stats)
+<img align="left" alt="fdesousalima-hub's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdesousalima-hub&hide_border=true&layout=compact" />
 
-</details>
 
 <!-- [website]: TODO -->
 [linkedin]: https://linkedin.com/in/fdesousalima
